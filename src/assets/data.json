@@ -1,0 +1,19 @@
+{
+    "games": [
+        {
+            "name": "1",
+            "description": "number 1",
+            "categories": ["action", "aventure"]
+        },
+        {
+            "name": "2",
+            "description": "number 2",
+            "categories": ["action", "aventure"]
+        },
+        {
+            "name": "3",
+            "description": "number 3",
+            "categories": ["action", "aventure"]
+        }
+    ]
+}
